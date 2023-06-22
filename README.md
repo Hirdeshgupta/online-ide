@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/uc?id=1Z8y2B0OTAsqZaQR6RmfbQZko0pY7vEeV" width="600" height="400/">
+<img src="https://drive.google.com/uc?id=1Fg1kReiSmMLFiw8pIhHg7bnQNn5s6rOX" width="600" height="400/">
   
   
 <h2>🧐 Features</h2>
